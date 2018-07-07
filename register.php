@@ -1,5 +1,5 @@
 <?php  include('config.php'); ?>
-<!-- Source code for handling registration and login -->
+<?php include('includes/publicFunctions.php'); ?>
 <?php  include('includes/registrationLogin.php'); ?>
 <!DOCTYPE html>
 <html>
